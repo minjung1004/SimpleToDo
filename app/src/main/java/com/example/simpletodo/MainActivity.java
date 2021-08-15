@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
 
       //etItem.setText("I'm here java");
         //can modify the etItem from here
-        
+
         loadItems();
 
         ItemsAdapter.OnLongClickListener onLongClickListener = new ItemsAdapter.OnLongClickListener(){
